@@ -1,0 +1,39 @@
+body {
+    height: 2000px;
+    background-color: gray;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.container-fluid.home {
+
+    background-color: gray;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.container-fluid.before {
+    background-color: #273036;
+
+
+}
+
+.container-fluid.about {
+    background-color: #273036;
+}
+
+section {
+    padding-top: 6rem;
+}
+
+.container-fluid.media {
+    background-color: #273036;
+}
+
+.container-fluid.kontak {
+    background-color: #273036;
+    padding-bottom: 100px;
+}
