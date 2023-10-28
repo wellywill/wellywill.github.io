@@ -37,3 +37,15 @@ section {
     background-color: #273036;
     padding-bottom: 100px;
 }
+
+@media (max-width: 575.98px) {
+    .card {
+        width: 50%;
+    }
+}
+
+/* skill */
+.container.skill {
+    max-width: 20rem;
+    background-color: gray;
+}
